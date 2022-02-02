@@ -8,7 +8,7 @@ hi, i'm [Arun S](https://github.com/arunsacharyadev), a passionate self-taught f
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/arunsacharyadev/arun_s/code.gif?raw=true" width="400" height="300" />
+  <img align="right" alt="GIF" src="https://github.com/arunsacharyadev/arun_s/blob/main/code.gif?raw=true" width="400" height="300" />
   
 - 💬 ask me about anything, i am happy to help;
 
