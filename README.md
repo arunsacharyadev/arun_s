@@ -2,7 +2,7 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=arunsacharyadev)  ![](https://komarev.com/ghpvc/?username=arunsacharyadev&label=Views&color=blue&style=plastic) -->
 
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=arunsacharyadev" alt="visitor" /> &nbsp; <img src="https://komarev.com/ghpvc/?username=arunsacharyadev&label=Views&color=blue&style=plastic" alt="views" /> </p>
+<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=arunsacharyadev" alt="visitor" /> &nbsp; <img src="https://komarev.com/ghpvc/?username=arunsacharyadev" alt="views" /> </p>
 
 <br />
 
@@ -24,6 +24,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+</a>
 
 📈 my github stats
 
