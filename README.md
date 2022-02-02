@@ -7,8 +7,6 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/arunsacharyadev?label=Follow&style=social" alt="Profile views" />
 </p>
-
-  <!-- <img align="right" alt="GIF" src="https://github.com/arunsacharyadev/arun_s/blob/main/code.gif?raw=true" width="300" height="250" /> -->
   
 **About me:**
 
@@ -35,37 +33,49 @@
 
 **My Statistics:**
 
-<p>
-  <span style="width:100%;">
-  <span style="width:50%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsacharyadev&theme=gotham&hide_langs_below=1" width="49.5%" />
-  </span>
-  <span style="width:50%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunsacharyadev&theme=gotham&show_icons=true&hide_border=false" width="20.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsacharyadev&theme=gotham&hide_border=false" width="20.5%" />
-  </span>
-  <img src = "https://activity-graph.herokuapp.com/graph?username=arunsacharyadev&custom_title=Arun S%20Trips's%20Contribution%20Graph&theme=gotham&bg_color=282828&hide_border=false&line=d1a01f&point=c58545" width="49.5%" />
-  </span>
-</p>
+<table style="width:100%;border:1px;">
+  <tr style="border:0px">
+    <td style="border:0px">
+      <img src="https://github-readme-stats.vercel.app/api?username=arunsacharyadev&theme=gotham&show_icons=true&hide_border=false" width="100%" />
+    </td>
+    <td style="border:0px">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsacharyadev&theme=gotham&hide_border=false" width="100%" />
+    </td>
+  </tr>
+  
+  <tr style="border:0px">
+    <td rowspan="2" style="border:0px">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsacharyadev&theme=gotham&hide_langs_below=1" width="100%" />
+    </td>
+    <td style="border:0px">
+      <img src = "https://activity-graph.herokuapp.com/graph?username=arunsacharyadev&custom_title=Arun S%20Trips's%20Contribution%20Graph&theme=gotham&bg_color=282828&hide_border=false&line=d1a01f&point=c58545" width="100%" />
+    </td>
+  </tr>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arunsacharyadev" />
+  <tr>
+    <td style="border:0px">
+      <img src="https://github-profile-trophy.vercel.app/?username=arunsacharyadev" width="100%" />
+    </td>
+  </tr>
+
+</table>
 
 
+<!-- <tr>
+<td><table style="width:180%;border:0px" >
 <tr>
-<td><table style="width:600px;">
-<tr>
-<td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsacharyadev&theme=gotham&hide_langs_below=1" width="100%" height="100%" /></td>
+<td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsacharyadev&theme=gotham&hide_langs_below=1" width="100%" height="20%" /></td>
 <td> 
-<table>
+<table style="border:0px" border="0">
 <tr>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsacharyadev&theme=gotham&hide_border=false" width="50%" />
+<td style="border:0px" border="0">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsacharyadev&theme=gotham&hide_border=false" width="50%" height="100px"/>
 
 </td>
 </tr>
 <tr>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsacharyadev&theme=gotham&hide_border=false" width="50%" />
+<td style="border:0px" border="0">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsacharyadev&theme=gotham&hide_border=false" width="50%" style="border:0px" border="0" />
 
 </td>
 </tr>
@@ -75,4 +85,4 @@
 </tr>
 
 </table></td>
-</tr>
+</tr> -->
