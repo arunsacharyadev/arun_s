@@ -1,6 +1,6 @@
-## Hi, I'm [Pawan Kumar!](https://pawan.live) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi, I'm [Arun S!](https://github.com/arunsacharyadev) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=arunsacharyadev)
+![](https://visitor-badge.glitch.me/badge?page_id=arunsacharyadev)  ![](https://komarev.com/ghpvc/?username=arunsacharyadev&label=Views&color=blue&style=plastic)
 
 <br />
 
@@ -10,7 +10,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/arunsacharyadev/arun_s/blob/main/code.gif?raw=true" width="300" height="250" />
   
-- 💬 ask me about anything, i am happy to help;
+- ⌨ Now i am currently working as Flutter Developer in [ININDIA](https://inindiatech.com).
+- 💬 ask me about Flutter related stuff, i am happy to help;
 
 **languages and tools:**  
 
