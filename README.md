@@ -25,10 +25,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
-</a>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsacharyadev&theme=gotham&hide_langs_below=1" alt="most used languages" />
 
-📈 my github stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arunsacharyadev&show_icons=true&theme=gotham" alt="arun s" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arunsacharyadev&show_icons=true&theme=gotham" alt="github stats" />
