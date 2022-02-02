@@ -48,7 +48,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsacharyadev&theme=gotham&hide_langs_below=1" width="100%" />
     </td>
     <td style="border:0px">
-      <img src = "https://activity-graph.herokuapp.com/graph?username=arunsacharyadev&custom_title=Arun S%20Trips's%20Contribution%20Graph&theme=gotham&bg_color=282828&hide_border=false&line=d1a01f&point=c58545" width="100%" />
+      <img src = "https://activity-graph.herokuapp.com/graph?username=arunsacharyadev&custom_title=Arun%20S%20Trips's%20Contribution%20Graph&theme=gotham&bg_color=282828&hide_border=false&line=d1a01f&point=c58545" width="100%" />
     </td>
   </tr>
 
