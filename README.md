@@ -1,6 +1,8 @@
 ## Hi, I'm [Arun S!](https://github.com/arunsacharyadev) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=arunsacharyadev)  ![](https://komarev.com/ghpvc/?username=arunsacharyadev&label=Views&color=blue&style=plastic)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=arunsacharyadev)  ![](https://komarev.com/ghpvc/?username=arunsacharyadev&label=Views&color=blue&style=plastic) -->
+
+<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=arunsacharyadev" alt="visitor" /> &nbsp; <img src="https://komarev.com/ghpvc/?username=arunsacharyadev&label=Views&color=blue&style=plastic" alt="views" /> </p>
 
 <br />
 
