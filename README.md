@@ -7,6 +7,8 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/arunsacharyadev?label=Follow&style=social" alt="Profile views" />
 </p>
+
+<img src="https://www.hackerrank.com/certificates/42b07f6fccd3" />
   
 **About me:**
 
