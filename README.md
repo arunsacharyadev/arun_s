@@ -7,8 +7,6 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/arunsacharyadev?label=Follow&style=social" alt="Profile views" />
 </p>
-
-<img src="https://www.hackerrank.com/certificates/42b07f6fccd3" />
   
 **About me:**
 
@@ -32,6 +30,10 @@
 &ensp;
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
+
+**Certificates:**
+
+<a href="https://www.hackerrank.com/certificates/42b07f6fccd3">SQL(Basic)</a>
 
 **My Statistics:**
 
