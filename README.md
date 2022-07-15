@@ -17,16 +17,40 @@
 **Languages & tools:**
 
 <p>
-<img height="25" src="https://img.shields.io/badge/dart-%2302569B.svg?logo=dart&style=for-the-badge&logoColor=white&color=01579b">
-<img height="25" src="https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&style=for-the-badge&logoColor=white&color=08589C">
-<img height="25" src="https://img.shields.io/badge/java-%2302569B.svg?logo=java&style=for-the-badge&logoColor=white&color=f89820">
-<img height="25" src="https://img.shields.io/badge/sql-%2302569B.svg?logo=sql&style=for-the-badge&logoColor=white&color=00758F">
-<img height="25" src="https://img.shields.io/badge/firebase-%2302569B.svg?logo=firebase&style=for-the-badge&logoColor=white&color=F57C00">
-<img height="25" src="https://img.shields.io/badge/mysql-%2302569B.svg?logo=mysql&style=for-the-badge&logoColor=white&color=00758F">
-<img height="25" src="https://img.shields.io/badge/postman-%2302569B.svg?logo=postman&style=for-the-badge&logoColor=white&color=EF5b25">
-<img height="25" src="https://img.shields.io/badge/figma-%2302569B.svg?logo=figma&style=for-the-badge&logoColor=white&color=FF7262">
-<img height="25" src="https://img.shields.io/badge/git-%2302569B.svg?logo=git&style=for-the-badge&logoColor=white&color=F1502F">
+<img height="25" src="https://img.shields.io/badge/dart-%2302569B.svg?logo=dart&style=for-the-badge&logoColor=white&color=01579b" />
+<img height="25" src="https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&style=for-the-badge&logoColor=white&color=08589C" />
+<img height="25" src="https://img.shields.io/badge/java-%2302569B.svg?logo=java&style=for-the-badge&logoColor=white&color=f89820" />
+<img height="25" src="https://img.shields.io/badge/sql-%2302569B.svg?logo=sql&style=for-the-badge&logoColor=white&color=00758F" />
+<img height="25" src="https://img.shields.io/badge/firebase-%2302569B.svg?logo=firebase&style=for-the-badge&logoColor=white&color=F57C00" />
+<img height="25" src="https://img.shields.io/badge/mysql-%2302569B.svg?logo=mysql&style=for-the-badge&logoColor=white&color=00758F" />
+<img height="25" src="https://img.shields.io/badge/postman-%2302569B.svg?logo=postman&style=for-the-badge&logoColor=white&color=EF5b25" />
+<img height="25" src="https://img.shields.io/badge/figma-%2302569B.svg?logo=figma&style=for-the-badge&logoColor=white&color=FF7262" />
+<img height="25" src="https://img.shields.io/badge/git-%2302569B.svg?logo=git&style=for-the-badge&logoColor=white&color=F1502F" />
 </p>
+
+**🛒 Apps on Store:**
+
+<p>
+<!-- <img height="25" src="https://img.shields.io/static/v1?label=Google Play Store&message=.&logo=google-play&style=for-the-badge&logoColor=white&color=01875f" /> -->  
+Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.delright.inidev.android">Delright</a>
+,
+<a href="https://play.google.com/store/apps/details?id=com.delright_delivery.inidev.android">Delright Delivery</a>
+,
+<a href="https://play.google.com/store/apps/details?id=com.fitmodus.inidev.android">Fitmodus</a>
+,
+<a href="https://play.google.com/store/apps/details?id=com.GreenPointEV.Ltd">GreenPoint EV</a>
+,
+<a href="https://play.google.com/store/apps/details?id=in.emax.axelacrm">Axela CRM</a>
+,
+<a href="https://play.google.com/store/apps/details?id=com.sangita.inidev.android">Sangita App</a>
+</p>
+
+<p>
+App Store: <a href="https://apps.apple.com/us/app/fitmodus/id1563216605">Fitmodus</a>
+,
+<a href="https://apps.apple.com/us/app/greenpoint-ev/id1553259119">GreenPoint EV</a>
+</p>
+
 
 **Certificates:**
 
@@ -53,7 +77,8 @@
   </tr>
   <tr style="height:100px">
     <td style="width:50%;">
-      <img src="https://github-profile-trophy.vercel.app/?username=arunsacharyadev" width="100%" height="100%" />
+      <!-- <img src="https://github-profile-trophy.vercel.app/?username=arunsacharyadev" width="100%" height="100%" /> -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunsacharyadev&theme=gotham"/>
     </td>
   </tr>
 </table>
