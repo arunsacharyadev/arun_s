@@ -1,12 +1,12 @@
 # Hi, I'm [Arun S!](https://github.com/arunsacharyadev) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>
+<!-- <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=arunsacharyadev" alt="visitors" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=arunsacharyadev" alt="Profile views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/arunsacharyadev?label=Follow&style=social" alt="Profile views" />
-</p>
+</p> -->
   
 **About me:**
 
@@ -17,17 +17,31 @@
 **Languages & tools:**
 
 <p>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+
+<code>
+<img height="25" src="https://img.shields.io/badge/dart-%2302569B.svg?logo=dart&style=for-the-badge&logoColor=white&color=01579b"></code>
 &ensp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code>
+<img height="25" src="https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&style=for-the-badge&logoColor=white&color=08589C"></code>
 &ensp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code>
+<img height="25" src="https://img.shields.io/badge/java-%2302569B.svg?logo=java&style=for-the-badge&logoColor=white&color=f89820"></code>
 &ensp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code>
+<img height="25" src="https://img.shields.io/badge/sql-%2302569B.svg?logo=sql&style=for-the-badge&logoColor=white&color=00758F"></code>
 &ensp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code>
+<img height="25" src="https://img.shields.io/badge/firebase-%2302569B.svg?logo=firebase&style=for-the-badge&logoColor=white&color=F57C00"></code>
 &ensp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code>
+<img height="25" src="https://img.shields.io/badge/mysql-%2302569B.svg?logo=mysql&style=for-the-badge&logoColor=white&color=00758F"></code>
+&ensp;
+<img height="25" src="https://img.shields.io/badge/postman-%2302569B.svg?logo=postman&style=for-the-badge&logoColor=white&color=EF5b25"></code>
+&ensp;
+<img height="25" src="https://img.shields.io/badge/figma-%2302569B.svg?logo=figma&style=for-the-badge&logoColor=white&color=FF7262"></code>
+&ensp;
+<img height="25" src="https://img.shields.io/badge/git-%2302569B.svg?logo=git&style=for-the-badge&logoColor=white&color=F1502F"></code>
+
 </p>
 
 **Certificates:**
