@@ -17,30 +17,23 @@
 **Languages & tools:**
 
 <p>
-
 <img height="25" src="https://img.shields.io/badge/dart-%2302569B.svg?logo=dart&style=for-the-badge&logoColor=white&color=01579b">
 &ensp;
-<code>
-<img height="25" src="https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&style=for-the-badge&logoColor=white&color=08589C"></code>
+<img height="25" src="https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&style=for-the-badge&logoColor=white&color=08589C">
 &ensp;
-<code>
-<img height="25" src="https://img.shields.io/badge/java-%2302569B.svg?logo=java&style=for-the-badge&logoColor=white&color=f89820"></code>
+<img height="25" src="https://img.shields.io/badge/java-%2302569B.svg?logo=java&style=for-the-badge&logoColor=white&color=f89820">
 &ensp;
-<code>
-<img height="25" src="https://img.shields.io/badge/sql-%2302569B.svg?logo=sql&style=for-the-badge&logoColor=white&color=00758F"></code>
+<img height="25" src="https://img.shields.io/badge/sql-%2302569B.svg?logo=sql&style=for-the-badge&logoColor=white&color=00758F">
 &ensp;
-<code>
-<img height="25" src="https://img.shields.io/badge/firebase-%2302569B.svg?logo=firebase&style=for-the-badge&logoColor=white&color=F57C00"></code>
+<img height="25" src="https://img.shields.io/badge/firebase-%2302569B.svg?logo=firebase&style=for-the-badge&logoColor=white&color=F57C00">
 &ensp;
-<code>
-<img height="25" src="https://img.shields.io/badge/mysql-%2302569B.svg?logo=mysql&style=for-the-badge&logoColor=white&color=00758F"></code>
+<img height="25" src="https://img.shields.io/badge/mysql-%2302569B.svg?logo=mysql&style=for-the-badge&logoColor=white&color=00758F">
 &ensp;
-<img height="25" src="https://img.shields.io/badge/postman-%2302569B.svg?logo=postman&style=for-the-badge&logoColor=white&color=EF5b25"></code>
+<img height="25" src="https://img.shields.io/badge/postman-%2302569B.svg?logo=postman&style=for-the-badge&logoColor=white&color=EF5b25">
 &ensp;
-<img height="25" src="https://img.shields.io/badge/figma-%2302569B.svg?logo=figma&style=for-the-badge&logoColor=white&color=FF7262"></code>
+<img height="25" src="https://img.shields.io/badge/figma-%2302569B.svg?logo=figma&style=for-the-badge&logoColor=white&color=FF7262">
 &ensp;
-<img height="25" src="https://img.shields.io/badge/git-%2302569B.svg?logo=git&style=for-the-badge&logoColor=white&color=F1502F"></code>
-
+<img height="25" src="https://img.shields.io/badge/git-%2302569B.svg?logo=git&style=for-the-badge&logoColor=white&color=F1502F">
 </p>
 
 **Certificates:**
