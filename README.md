@@ -18,8 +18,7 @@
 
 <p>
 
-<code>
-<img height="25" src="https://img.shields.io/badge/dart-%2302569B.svg?logo=dart&style=for-the-badge&logoColor=white&color=01579b"></code>
+<img height="25" src="https://img.shields.io/badge/dart-%2302569B.svg?logo=dart&style=for-the-badge&logoColor=white&color=01579b">
 &ensp;
 <code>
 <img height="25" src="https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&style=for-the-badge&logoColor=white&color=08589C"></code>
