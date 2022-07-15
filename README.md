@@ -18,7 +18,7 @@
 
 <p>
 <img height="25" src="https://img.shields.io/badge/dart-%2302569B.svg?logo=dart&style=for-the-badge&logoColor=white&color=01579b">
-&ensp;
+&nbsp;
 <img height="25" src="https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&style=for-the-badge&logoColor=white&color=08589C">
 &ensp;
 <img height="25" src="https://img.shields.io/badge/java-%2302569B.svg?logo=java&style=for-the-badge&logoColor=white&color=f89820">
