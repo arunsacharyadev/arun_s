@@ -78,7 +78,7 @@ App Store: <a href="https://apps.apple.com/us/app/fitmodus/id1563216605">Fitmodu
   <tr style="height:100px">
     <td style="width:50%;">
       <!-- <img src="https://github-profile-trophy.vercel.app/?username=arunsacharyadev" width="100%" height="100%" /> -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunsacharyadev&theme=gotham"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunsacharyadev&theme=vue" width="100%" height="100%" />
     </td>
   </tr>
 </table>
