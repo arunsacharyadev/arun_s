@@ -10,7 +10,7 @@
   
 **About me:**
 
-- 📖 I am currently building the skills for data engineer profile.
+- 📖 I am currently building the skills.
 - ⌨ I recently worked as a Flutter Developer in [ININDIA](https://inindiatech.com).
 - 💬 ask me about Flutter related stuff, i am happy to help.
 
