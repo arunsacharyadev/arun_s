@@ -53,8 +53,10 @@ App Store: <a href="https://apps.apple.com/us/app/fitmodus/id1563216605">Fitmodu
 
 
 **Certificates:**
-
-<a href="https://www.hackerrank.com/certificates/42b07f6fccd3">SQL(Basic)</a>
+<p>
+<a href="https://www.hackerrank.com/certificates/42b07f6fccd3">SQL(Basic)</a>, 
+<a href="https://www.hackerrank.com/certificates/9b09a1fa1731">SQL(Intermediate)</a>
+</p>
 
 **My Statistics:**
 
