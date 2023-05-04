@@ -12,14 +12,14 @@
 
 - 📖 I am currently building the skills.
 - ⌨ I recently worked as a Flutter Developer in [ININDIA](https://inindiatech.com).
-- 💬 ask me about Flutter related stuff, i am happy to help.
+<!-- - 💬 ask me about Flutter related stuff, i am happy to help. -->
 
 **Languages & tools:**
 
 <p>
 <img height="25" src="https://img.shields.io/badge/dart-%2302569B.svg?logo=dart&style=for-the-badge&logoColor=white&color=01579b" />
 <img height="25" src="https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&style=for-the-badge&logoColor=white&color=08589C" />
-<img height="25" src="https://img.shields.io/badge/java-%2302569B.svg?logo=java&style=for-the-badge&logoColor=white&color=f89820" />
+<!-- <img height="25" src="https://img.shields.io/badge/java-%2302569B.svg?logo=java&style=for-the-badge&logoColor=white&color=f89820" /> -->
 <img height="25" src="https://img.shields.io/badge/sql-%2302569B.svg?logo=sql&style=for-the-badge&logoColor=white&color=00758F" />
 <img height="25" src="https://img.shields.io/badge/firebase-%2302569B.svg?logo=firebase&style=for-the-badge&logoColor=white&color=F57C00" />
 <img height="25" src="https://img.shields.io/badge/mysql-%2302569B.svg?logo=mysql&style=for-the-badge&logoColor=white&color=00758F" />
