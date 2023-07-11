@@ -1,7 +1,7 @@
 # Hi, I'm [Arun S!](https://github.com/arunsacharyadev) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=arunsacharyadev" alt="visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=arunsacharyadev.visitor-badge" alt="Visitors" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=arunsacharyadev" alt="Profile views" />
 &nbsp;
@@ -10,19 +10,20 @@
   
 **About me:**
 
-- 📖 I am currently building the skills.
-- ⌨ I recently worked as a Flutter Developer in [ININDIA](https://inindiatech.com).
-<!-- - 💬 ask me about Flutter related stuff, i am happy to help. -->
+- 📖 I am currently learning the data analyst skills.
+- ⌨ I recently worked as a Flutter Developer in [ININDIA](https://inindiatech.com) for 1.5 years.
 
 **Languages & tools:**
 
 <p>
-<img height="25" src="https://img.shields.io/badge/dart-%2302569B.svg?logo=dart&style=for-the-badge&logoColor=white&color=01579b" />
-<img height="25" src="https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&style=for-the-badge&logoColor=white&color=08589C" />
-<!-- <img height="25" src="https://img.shields.io/badge/java-%2302569B.svg?logo=java&style=for-the-badge&logoColor=white&color=f89820" /> -->
 <img height="25" src="https://img.shields.io/badge/sql-%2302569B.svg?logo=sql&style=for-the-badge&logoColor=white&color=00758F" />
+<img height="25" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&style=for-the-badge&logoColor=white&color=08589C" />
+<img height="25" src="https://img.shields.io/badge/dart-%2302569B.svg?logo=dart&style=for-the-badge&logoColor=white&color=01579b" />
+<!-- <img height="25" src="https://img.shields.io/badge/java-%2302569B.svg?logo=java&style=for-the-badge&logoColor=white&color=f89820" /> -->
 <img height="25" src="https://img.shields.io/badge/firebase-%2302569B.svg?logo=firebase&style=for-the-badge&logoColor=white&color=F57C00" />
-<img height="25" src="https://img.shields.io/badge/mysql-%2302569B.svg?logo=mysql&style=for-the-badge&logoColor=white&color=00758F" />
+<!-- <img height="25" src="https://img.shields.io/badge/mysql-%2302569B.svg?logo=mysql&style=for-the-badge&logoColor=white&color=00758F" /> -->
 <img height="25" src="https://img.shields.io/badge/postman-%2302569B.svg?logo=postman&style=for-the-badge&logoColor=white&color=EF5b25" />
 <img height="25" src="https://img.shields.io/badge/figma-%2302569B.svg?logo=figma&style=for-the-badge&logoColor=white&color=FF7262" />
 <img height="25" src="https://img.shields.io/badge/git-%2302569B.svg?logo=git&style=for-the-badge&logoColor=white&color=F1502F" />
@@ -31,24 +32,25 @@
 **🛒 Apps on Store:**
 
 <p>
-<!-- <img height="25" src="https://img.shields.io/static/v1?label=Google Play Store&message=.&logo=google-play&style=for-the-badge&logoColor=white&color=01875f" /> -->  
-Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.delright.inidev.android">Delright</a>
-,
-<a href="https://play.google.com/store/apps/details?id=com.delright_delivery.inidev.android">Delright Delivery</a>
+<img height="25" src= "https://img.shields.io/badge/Google%20Play%20store-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white"> <br/>
+<a href="https://play.google.com/store/apps/details?id=com.GreenPointEV.Ltd">GreenPoint EV</a>
 ,
 <a href="https://play.google.com/store/apps/details?id=com.fitmodus.inidev.android">Fitmodus</a>
 ,
-<a href="https://play.google.com/store/apps/details?id=com.GreenPointEV.Ltd">GreenPoint EV</a>
+<a href="https://play.google.com/store/apps/details?id=com.sangita.inidev.android">Sangita App</a>
+,
+<!-- <a href="https://play.google.com/store/apps/details?id=com.delright.inidev.android">Delright</a>
+, -->
+<a href="https://play.google.com/store/apps/details?id=com.delright_delivery.inidev.android">Delright Delivery</a>
 ,
 <a href="https://play.google.com/store/apps/details?id=in.emax.axelacrm">Axela CRM</a>
-,
-<a href="https://play.google.com/store/apps/details?id=com.sangita.inidev.android">Sangita App</a>
 </p>
 
 <p>
-App Store: <a href="https://apps.apple.com/us/app/fitmodus/id1563216605">Fitmodus</a>
-,
+<img height="25" src= "https://img.shields.io/badge/App%20Store-414141.svg?style=for-the-badge&logo=App-Store&logoColor=white"> <br/>
 <a href="https://apps.apple.com/us/app/greenpoint-ev/id1553259119">GreenPoint EV</a>
+,
+<a href="https://apps.apple.com/us/app/fitmodus/id1563216605">Fitmodus</a>
 </p>
 
 
