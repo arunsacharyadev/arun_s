@@ -12,6 +12,7 @@
 
 - 📖 I am currently learning the data analyst skills.
 - ⌨ I recently worked as a Flutter Developer in [ININDIA](https://inindiatech.com) for 1.5 years.
+- [Tableau Profile](https://public.tableau.com/app/profile/arun.s4226)
 
 **Languages & tools:**
 
