@@ -58,7 +58,8 @@
 **Certificates:**
 <p>
 <a href="https://www.hackerrank.com/certificates/42b07f6fccd3">SQL(Basic)</a>, 
-<a href="https://www.hackerrank.com/certificates/9b09a1fa1731">SQL(Intermediate)</a>
+<a href="https://www.hackerrank.com/certificates/9b09a1fa1731">SQL(Intermediate)</a>,
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_hHCcrMGN7YteYL8As_1693402884758_completion_certificate.pdf">KPMG Data Analytics Consulting Virtual Internship</a>
 </p>
 
 **My Statistics:**
