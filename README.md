@@ -38,14 +38,19 @@
 ,
 <a href="https://play.google.com/store/apps/details?id=com.fitmodus.inidev.android">Fitmodus</a>
 ,
-<a href="https://play.google.com/store/apps/details?id=com.sangita.inidev.android">Sangita App</a>
-,
-<!-- <a href="https://play.google.com/store/apps/details?id=com.delright.inidev.android">Delright</a>
-, -->
-<a href="https://play.google.com/store/apps/details?id=com.delright_delivery.inidev.android">Delright Delivery</a>
+<a href="https://play.google.com/store/apps/details?id=com.aitrjobs.inidev.android">AITRjobs</a>
 ,
 <a href="https://play.google.com/store/apps/details?id=in.emax.axelacrm">Axela CRM</a>
+,
+<a href="https://play.google.com/store/apps/details?id=com.gaadi.inidev.android">Gaadi - Watch together</a>
+,
+<a href="https://play.google.com/store/apps/details?id=com.sangita.inidev.android">Sangita App</a>
+,
+<a href="https://play.google.com/store/apps/details?id=com.delright_delivery.inidev.android">Delright Delivery</a>
+<!-- <a href="https://play.google.com/store/apps/details?id=com.delright.inidev.android">Delright</a>
+, -->
 </p>
+
 
 <p>
 <img height="25" src= "https://img.shields.io/badge/App%20Store-414141.svg?style=for-the-badge&logo=App-Store&logoColor=white"> <br/>
