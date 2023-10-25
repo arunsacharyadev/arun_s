@@ -10,7 +10,7 @@
   
 **About me:**
 
-- 📖 I am currently learning the data analyst skills.
+<!-- - 📖 I am currently learning the data analyst skills. -->
 - ⌨ I recently worked as a Flutter Developer in [ININDIA](https://inindiatech.com) for 1.5 years.
 - [Tableau Profile](https://public.tableau.com/app/profile/arun.s4226)
 
@@ -34,11 +34,11 @@
 
 <p>
 <img height="25" src= "https://img.shields.io/badge/Google%20Play%20store-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white"> <br/>
+<a href="https://play.google.com/store/apps/details?id=com.aitrjobs.inidev.android">AITRjobs</a>
+,
 <a href="https://play.google.com/store/apps/details?id=com.GreenPointEV.Ltd">GreenPoint EV</a>
 ,
 <a href="https://play.google.com/store/apps/details?id=com.fitmodus.inidev.android">Fitmodus</a>
-,
-<a href="https://play.google.com/store/apps/details?id=com.aitrjobs.inidev.android">AITRjobs</a>
 ,
 <a href="https://play.google.com/store/apps/details?id=in.emax.axelacrm">Axela CRM</a>
 ,
@@ -60,7 +60,7 @@
 </p>
 
 
-**Certificates:**
+**Certifications:**
 <p>
 <a href="https://www.hackerrank.com/certificates/42b07f6fccd3">SQL(Basic)</a>, 
 <a href="https://www.hackerrank.com/certificates/9b09a1fa1731">SQL(Intermediate)</a>,
