@@ -12,14 +12,14 @@
 
 <!-- - 📖 I am currently learning the data analyst skills. -->
 - ⌨ I recently worked as a Flutter Developer in [ININDIA](https://inindiatech.com) for 1.5 years.
-- [Tableau Profile](https://public.tableau.com/app/profile/arun.s4226)
+<!-- - [Tableau Profile](https://public.tableau.com/app/profile/arun.s4226) -->
 
 **Languages & tools:**
 
 <p>
-<img height="25" src="https://img.shields.io/badge/sql-%2302569B.svg?logo=sql&style=for-the-badge&logoColor=white&color=00758F" />
+<!-- <img height="25" src="https://img.shields.io/badge/sql-%2302569B.svg?logo=sql&style=for-the-badge&logoColor=white&color=00758F" />
 <img height="25" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" /> -->
 <img height="25" src="https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&style=for-the-badge&logoColor=white&color=08589C" />
 <img height="25" src="https://img.shields.io/badge/dart-%2302569B.svg?logo=dart&style=for-the-badge&logoColor=white&color=01579b" />
 <!-- <img height="25" src="https://img.shields.io/badge/java-%2302569B.svg?logo=java&style=for-the-badge&logoColor=white&color=f89820" /> -->
@@ -60,12 +60,12 @@
 </p>
 
 
-**Certifications:**
+<!-- **Certifications:**
 <p>
 <a href="https://www.hackerrank.com/certificates/42b07f6fccd3">SQL(Basic)</a>, 
 <a href="https://www.hackerrank.com/certificates/9b09a1fa1731">SQL(Intermediate)</a>,
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_hHCcrMGN7YteYL8As_1693402884758_completion_certificate.pdf">KPMG Data Analytics Consulting Virtual Internship</a>
-</p>
+</p> -->
 
 **My Statistics:**
 
